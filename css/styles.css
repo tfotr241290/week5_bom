@@ -38,6 +38,11 @@ input {
 	width: 200px;
 }
 
+input:focus, textarea:focus{
+	background-color: #FF7F50;
+	color: #fff;
+	}
+
 label {
 	font-size: 0.9rem;
 }
